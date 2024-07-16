@@ -8,12 +8,6 @@ alias format="poetry run scripts/format"
 alias test="poetry run scripts/test"
 alias lint="poetry run scripts/lint"
 
-# some more ls aliases
-alias ls='ls --color=auto'
-alias ll='ls -alFh'
-alias la='ls -A'
-alias l='ls -CF'
-
 # git
 alias g='git'
 alias gg='git grep -n'
